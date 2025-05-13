@@ -2,6 +2,8 @@
 
 This is a WPF (Windows Presentation Foundation) application for a Flashcard Game. The project allows users to create, manage, and play with flashcards, making it a useful tool for learning and memorization.
 
+### VIDEO DEMO: 
+
 
 
 ### Key Files and Directories
