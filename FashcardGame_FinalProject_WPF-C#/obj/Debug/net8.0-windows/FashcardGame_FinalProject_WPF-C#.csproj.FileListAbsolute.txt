@@ -1,0 +1,171 @@
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.exe
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.deps.json
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.runtimeconfig.json
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.dll
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.pdb
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\AddClassDialog.baml
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\AddClassDialog.g.cs
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\ClassesPage.g.cs
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\FlashcardsPage.g.cs
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\StudentConfig.g.cs
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\StudySetsPage.g.cs
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C__MarkupCompile.cache
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C__MarkupCompile.lref
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\ClassesPage.baml
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\FlashcardsPage.baml
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\StudentConfig.baml
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\StudySetsPage.baml
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.g.resources
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.AssemblyInfoInputs.cache
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.AssemblyInfo.cs
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.csproj.CoreCompileInputs.cache
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.dll
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\refint\FashcardGame_FinalProject_WPF_C_.dll
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.pdb
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.genruntimeconfig.cache
+C:\Users\bsn3g9\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\ref\FashcardGame_FinalProject_WPF_C_.dll
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.exe
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.deps.json
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.runtimeconfig.json
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.dll
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.pdb
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\AddClassDialog.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\AddClassDialog.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\ClassesPage.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\FlashcardsPage.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\StudentConfig.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\StudySetsPage.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C__MarkupCompile.cache
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C__MarkupCompile.lref
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\ClassesPage.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\FlashcardsPage.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\StudentConfig.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\StudySetsPage.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.g.resources
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.AssemblyInfoInputs.cache
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.AssemblyInfo.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.csproj.CoreCompileInputs.cache
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.dll
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\refint\FashcardGame_FinalProject_WPF_C_.dll
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.pdb
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.genruntimeconfig.cache
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\ref\FashcardGame_FinalProject_WPF_C_.dll
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FlashcardCreation.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FlashcardCreation.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\QuizPage.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\QuizPage.baml
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.exe
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.deps.json
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.runtimeconfig.json
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.dll
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.pdb
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\AddClassDialog.baml
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FlashcardCreation.g.cs
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\AddClassDialog.g.cs
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\ClassesPage.g.cs
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\FlashcardsPage.g.cs
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\QuizPage.g.cs
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\StudentConfig.g.cs
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\StudySetsPage.g.cs
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C__MarkupCompile.cache
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C__MarkupCompile.lref
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FlashcardCreation.baml
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\ClassesPage.baml
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\FlashcardsPage.baml
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\QuizPage.baml
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\StudentConfig.baml
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\StudySetsPage.baml
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.g.resources
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.AssemblyInfoInputs.cache
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.AssemblyInfo.cs
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.csproj.CoreCompileInputs.cache
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.dll
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\refint\FashcardGame_FinalProject_WPF_C_.dll
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.pdb
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.genruntimeconfig.cache
+C:\Users\localwindows\Desktop\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\ref\FashcardGame_FinalProject_WPF_C_.dll
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.exe
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.deps.json
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.runtimeconfig.json
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.dll
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.pdb
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\AddClassDialog.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FlashcardCreation.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\AddClassDialog.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\ClassesPage.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\FlashcardsPage.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\QuizPage.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\StudentConfig.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\StudySetsPage.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C__MarkupCompile.cache
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C__MarkupCompile.lref
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FlashcardCreation.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\ClassesPage.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\FlashcardsPage.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\QuizPage.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\StudentConfig.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\StudySetsPage.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.g.resources
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.AssemblyInfoInputs.cache
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.AssemblyInfo.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.csproj.CoreCompileInputs.cache
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.dll
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\refint\FashcardGame_FinalProject_WPF_C_.dll
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.pdb
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.genruntimeconfig.cache
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1)\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\ref\FashcardGame_FinalProject_WPF_C_.dll
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.exe
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.deps.json
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.runtimeconfig.json
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.dll
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\bin\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.pdb
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\AddClassDialog.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FlashcardCreation.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\AddClassDialog.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\ClassesPage.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\FlashcardsPage.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\QuizPage.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\StudentConfig.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\StudySetsPage.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C__MarkupCompile.cache
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C__MarkupCompile.lref
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FlashcardCreation.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\ClassesPage.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\FlashcardsPage.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\QuizPage.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\StudentConfig.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\views\StudySetsPage.baml
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.g.resources
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.AssemblyInfoInputs.cache
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.AssemblyInfo.cs
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.csproj.CoreCompileInputs.cache
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.dll
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\refint\FashcardGame_FinalProject_WPF_C_.dll
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF_C_.pdb
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\FashcardGame_FinalProject_WPF-C#.genruntimeconfig.cache
+C:\Users\Dominic\Desktop\FashcardGame_FinalProject_WPF-C-master (1) - Copy\FashcardGame_FinalProject_WPF-C-master\FashcardGame_FinalProject_WPF-C#\obj\Debug\net8.0-windows\ref\FashcardGame_FinalProject_WPF_C_.dll
